@@ -10,10 +10,7 @@ This project aims to optimize the medical supply chain by leveraging AI and mach
 - [Data](#data)
 - [Features](#features)
 - [Models](#models)
-- [Usage](#usage)
 - [Contributors](#contributors)
-- [License](#license)
-
 ## Data
 
 ### Medical Inventory Data
